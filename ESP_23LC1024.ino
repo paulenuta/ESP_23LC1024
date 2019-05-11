@@ -13,7 +13,7 @@
   (https://www.wemos.cc/product/d1-mini.html)
 */
 #include <SPI.h>
-#define CS D3
+#define CS RX
 
 //SRAM opcodes
 #define RDSR    0x05
